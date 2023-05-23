@@ -10,7 +10,7 @@
 WebUSB WebUSBSerial(1 /* https:// */, "webusb.github.io/arduino/demos/rgb");
 
 #define Serial WebUSBSerial
-Servo myservo;
+Servo myservo;    
 
 const int redPin = 9;
 const int greenPin = 10;
