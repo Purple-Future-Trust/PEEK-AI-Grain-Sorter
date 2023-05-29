@@ -1,11 +1,7 @@
 # PEEK Grain Sorter
- A DIY experiment for teaching AI basics using Arduino. Adapted from Tiny Sorter (https://experiments.withgoogle.com/tiny-sorter/view) by KAIMERA for Purple Future Trust's PEEK Kit. 
- info@kaimera.tech | info@purpletrust.org
- https://purpletrust.org
- https://kaimera.tech 
- December 2022
+ A DIY experiment for teaching AI basics using Arduino. Adapted from [Tiny Sorter ](https://experiments.withgoogle.com/tiny-sorter/view) by [KAIMERA](https://kaimera.tech) for [Purple Future Trust's](https://purpletrust.org) PEEK Kit. 
  
-# Our contributions so far
+# Our contributions
 - STL files for a 3D-printed version of the sorting bay and tray
 
 # Also inside
