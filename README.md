@@ -20,5 +20,5 @@ The Purple Future Trust's PEEK kit is an innovative and interactive tool that al
 - Encourages collaboration and communication among learners
 - Provides an interactive and hands-on learning experience
 
-The PEEK kit is designed to cater to both learners and educators, making it a valuable tool for the classroom and beyond. With the PEEK kit, learners can learn electronics basics, soldering techniques, breadboarding, troubleshooting, and programming with Arduino, among other valuable skills. The kit's **[manual]**(https://bit.ly/peekmanual) also includes lessons on debugging and troubleshooting, so that learners can learn how to identify and solve problems they may encounter.
+The PEEK kit is designed to cater to both learners and educators, making it a valuable tool for the classroom and beyond. With the PEEK kit, learners can learn electronics basics, soldering techniques, breadboarding, troubleshooting, and programming with Arduino, among other valuable skills. The kit's [**manual**](https://bit.ly/peekmanual) also includes lessons on debugging and troubleshooting, so that learners can learn how to identify and solve problems they may encounter.
 ![PEEK Image](https://purpletrust.org/wp-content/uploads/2023/02/EKetW65XkAAFM_q-scaled-e1677516347370.jpeg)
